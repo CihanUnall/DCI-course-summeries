@@ -97,7 +97,7 @@ Ergebnis:
 ```
 
 Ergebnis:  
-![Alt-Text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spektrum.de%2Fkolumne%2Fdoomsday-in-spaetestens-17-000-jahren-droht-der-weltuntergang%2F2069442&psig=AOvVaw1r3ZaFzIyP8--EIHsYTQV-&ust=1727350126697000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjk0-j-3YgDFQAAAAAdAAAAABAE])
+![Alt-Text](https://static.spektrum.de/fm/912/f2000x857/iStock-1091165570.jpeg)
 
 ---
 
